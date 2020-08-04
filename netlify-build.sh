@@ -23,8 +23,8 @@ TEXLIVEDIR="$CACHE_FOLDER/texlive"
 export PATH="$PATH:$TEXLIVEDIR/bin/x86_64-linux:$GOPATH/bin"
 
 # Install comply
-UPSTREAM="github.com/strongdm/comply"
-FORK="github.com/ridem/comply"
+UPSTREAM="github.com/stagingcc/Granada"
+FORK="github.com/stagingcc/Granada"
 
 echo "Installing $UPSTREAM"
 go get $UPSTREAM
