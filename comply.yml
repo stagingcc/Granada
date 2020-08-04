@@ -1,0 +1,10 @@
+name: Granada
+filePrefix: Granada
+tickets:
+  jira:
+    password: SiLoHago09!
+    project: Granada
+    taskType: Classic software
+    url: https://webuild.atlassian.net/
+    username: cervanteschris201
+approvedBranch: ""
